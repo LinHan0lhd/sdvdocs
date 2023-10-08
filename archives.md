@@ -4,19 +4,19 @@
 按键盘上的Windows + R打开'运行'窗口。
 复制并粘贴此路径到输入框：%appdata%\StardewValley\Saves
 点击'确定'即可打开文件夹
+
 2.Linux系统
 打开Files，点击 Go » Enter Location
-复制并粘贴此路径：~/.config/StardewValley/Saves
-提交即可打开文件夹
+
 3.Mac系统
 打开Finder，点击Go » Go to Folder.
-复制并粘贴此路径：~/.config/StardewValley/Saves
-提交即可打开文件夹
+
 4.Android系统
 打开文件管理器(例:MT管理器,ES文件浏览器…)
 进入内部存储
 （1.5以前）找到并选中名为 StardewValley 的文件夹。注意：在Android1.5更新后，存档位置移动到
 Android/data/com.chucklefish.stardewvalley/files/Saves
+
 5.iOS系统
 iOS 13 或者更新的iOS系统版本
 打开 文件应用。
