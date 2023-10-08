@@ -22,4 +22,4 @@
 
 1. 如何自行美化
 
-2. 如何修改存档
+2. [如何修改存档](https://github.com/LinHan0lhd/sdvdocs/blob/8354c1e2b928543121121a22f02207cf9fbda472/guide/archives.md)
