@@ -1,5 +1,7 @@
 # 存档位置
+
 存档文件夹名称:农场名称_种子码数
+
 1.Windows系统
 按键盘上的Windows + R打开'运行'窗口。
 复制并粘贴此路径到输入框：%appdata%\StardewValley\Saves
